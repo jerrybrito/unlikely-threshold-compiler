@@ -1,0 +1,2 @@
+# Requires: forgotten-pause
+# (Not available on PyPI)
